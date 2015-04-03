@@ -1,0 +1,11 @@
+Following tools are used:
+
+1. Graddle:
+	a. Gradle binary: from web 
+	b. plugin: Help -> Eclipse Marketplace -> Search for Gradle -> Install
+	
+2. Markdown tools: 
+	a. Plugin for view .md files:  
+		+ Install: Help -> Eclipse Marketplace -> Search for Markdown -> install GitHub Flavored Markdown viewer plugin
+		+ Usage: Right mouse on file -> Show In GMF View
+	
