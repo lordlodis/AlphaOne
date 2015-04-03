@@ -1,0 +1,17 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+archivesBaseName = 'AlphaOnE-core'
+version = '0.1-SNAPSHOT' 
+repositories {
+    mavenCentral()
+}
+jar {
+	manifest {
+		attributes 'Main-Class': 'com.alphaone.core.Test'
+	}
+}
+dependencies {
+   compile  'org.apache.commons:commons-lang3:3.0'
+   compile  'log4j:log4j:1.2.16'
+
+} 
