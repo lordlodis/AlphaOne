@@ -2,3 +2,6 @@
 /build/
 /.gradle/
 /repos/
+/gradle/
+/gradlew
+/gradlew.bat
